@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">DishDiscover</string>
+    <string name="label_inference_time">Inference Time</string>
+    <string name="label_fps">Frames per Second</string>
+    <string name="label_accuracy">Accuracy</string>
+    <string name="label_cpu_gpu">CPU/GPU</string>
+    <string name="label_models">Model</string>
+
+    <string-array name="cpu_gpu_spinner_titles">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+
+    <string-array name="models_titles">
+        <item>MobileNet V1</item>
+        <item>Food2</item>
+    </string-array>
+</resources>

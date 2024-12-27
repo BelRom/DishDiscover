@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.MyApp" parent="Theme.AppCompat">
+        <item name="colorPrimary">@color/bounding_box_color</item>
+        <item name="colorPrimaryDark">@color/bounding_box_color</item>
+        <item name="colorAccent">@color/bounding_box_color</item>
+    </style>
+
+    <style name="BottomSheetSpinnerItemStyle" parent="Widget.AppCompat.Light.DropDownItem.Spinner">
+        <item name="android:textSize">@dimen/bottom_sheet_text_size</item>
+    </style>
+</resources>
