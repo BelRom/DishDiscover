@@ -2,6 +2,7 @@
 
 ## Описание
 DishDiscover — мобильное приложение, предназначенное для распознавания блюд по изображению и определения их названий на английском языке.
+Презентация https://docs.google.com/presentation/d/1xJG-0VkK6VOS1aDI_kT5pceEy5xWaYrJ/edit?usp=share_link&ouid=100419496333606363332&rtpof=true&sd=true
 
 ## Цель
 
